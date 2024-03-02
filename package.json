@@ -1,0 +1,30 @@
+{
+  "name": "testing-practice-odin",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "This repository is for the Odin Project testing practice project.",
+  "main": "functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brent-the-carpenter/testing-practice-Odin.git"
+  },
+  "author": "Brent-the-carpenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brent-the-carpenter/testing-practice-Odin/issues"
+  },
+  "homepage": "https://github.com/Brent-the-carpenter/testing-practice-Odin#readme",
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "babel-jest": "^29.7.0",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "jest": "^29.7.0"
+  }
+}
